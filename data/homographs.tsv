@@ -1,0 +1,32 @@
+# Common Persian homographs: one spelling, several everyday readings.
+# Format: plain word<TAB>marked form = meaning | marked form = meaning | ...
+# Marks are MINIMAL: only the letter that picks the reading. Letters are never changed.
+# prepare flags these words as kind=homograph; the agent then picks the reading from the meaning column or the app context.
+# The list is a starting point, not complete: also flag any other word whose reading depends on meaning.
+مهر	مُهر = seal, stamp | مِهر = love, kindness; the month Mehr
+ملک	مَلِک = king | مِلک = property, estate | مَلَک = angel | مُلک = realm, kingdom
+کشتی	کَشتی = ship | کُشتی = wrestling
+گزیدن	گُزیدن = to choose (literary) | گَزیدن = to bite, to sting
+مرد	مَرد = man | مُرد = (he/she) died
+گرم	گَرم = warm | گِرَم = gram
+کرم	کِرم = worm | کَرَم = generosity | کِرِم = cream
+سر	سَر = head | سِرّ = secret | سُر = slide
+شکر	شِکَر = sugar | شُکر = thanks
+کشت	کِشت = cultivation | کُشت = (he/she) killed
+کشتن	کُشتن = to kill | کِشتن = to plant
+در	دَر = door; in | دُر = pearl
+پر	پُر = full | پَر = feather
+گل	گُل = flower; goal | گِل = mud, clay
+خرد	خِرَد = wisdom | خُرد = small, crushed
+بنا	بَنّا = builder | بِنا = building
+کرد	کَرد = (he/she) did | کُرد = Kurd
+گرد	گَرد = dust | گِرد = round | گُرد = hero
+ترک	تَرک = leaving | تُرک = Turk | تَرَک = crack
+سحر	سَحَر = dawn | سِحر = magic
+قدر	قَدر = value, worth | قَدَر = fate
+علم	عِلم = science, knowledge | عَلَم = flag, banner
+عالم	عالِم = scholar | عالَم = world
+سیر	سیر = full (not hungry); garlic | سِیر = journey, course
+کند	کُند = slow, blunt | کَنَد = (he/she) digs | کُنَد = (he/she) does
+شست	شَست = thumb | شُست = (he/she) washed
+حسن	حُسن = goodness, beauty (حسن نیت، حسن خلق) | حَسَن = the name Hasan; good (literary)
